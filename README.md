@@ -48,7 +48,7 @@ The trained model and TF-IDF vectorizer are saved using joblib for future use.
 
 ## Instructions for Execution
 ### Clone the Repository:
-Write on the bash: git clone https://github.com/arixstoo/SMS-Spam-Detector-96-
+Write on the bash: git clone https://github.com/arixstoo/SMS-Spam-Detector-96
 
 ### Install Dependencies:
 Ensure you have Python installed and all the libraries used in the project.
